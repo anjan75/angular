@@ -1,0 +1,36 @@
+img{
+    width: 100%;
+    height: 260px;
+    
+    transition-property: width, height;
+    transition-duration: 2s;
+    border: 5px solid #cccc;
+    overflow: hidden;
+    
+    
+}
+img:hover{
+    width: 100%;
+    height: 280px;
+   
+    
+}
+
+/* .row img {
+    height: 260px;
+    width: 100%;
+    transition: all 2s ease;
+    
+  }
+  .row img:hover {
+    width: 110%;
+    height: 300px;
+    overflow: hidden;
+  } */
+  /* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px solid red;
+    width: 50%;
+  } */

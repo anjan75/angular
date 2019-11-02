@@ -1,0 +1,11 @@
+.carousel-inner img{
+    width: 100%;
+    height: 379px;
+    margin-top: 41px;
+    margin-bottom: 3px;
+    border-radius: 5px;
+    border: 16px solid rgba(226, 213, 213, 0.781);
+}
+.carousalbg{
+    background:#748cabc2;
+}

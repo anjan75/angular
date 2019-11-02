@@ -1,0 +1,42 @@
+.ss{
+    width:64px;
+    height: 64px;
+    /* background-image: url(assests/img/arrow.png); */
+    display: block;
+    position: fixed;
+    right: 55px;
+    bottom: 20px;
+    display: none;
+    }
+    .sam{
+        margin-top: 0;
+        margin-bottom: 1rem;
+        text-align: justify;
+        text-indent: 50px;
+    }
+    table tbody tr td{
+      border-collapse: collapse;
+      border: 1px solid black;
+      text-align: center;
+    }
+    table tbody tr:hover{
+      background: aqua; 
+      color: white;
+    }
+    .roseimg{
+      position: absolute;
+      border-radius: 50%;
+      width: 170px;
+    margin-top: -37px;
+    margin-bottom: -25px;
+    z-index: 1;
+  }
+  .settingmargin{
+   margin-top: -16px;
+  }
+  .setheight{
+    height: 339px;
+  }
+  .alert-dark1{
+    background-color: #008c17;
+  }
